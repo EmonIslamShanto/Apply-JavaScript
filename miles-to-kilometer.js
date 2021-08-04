@@ -3,4 +3,4 @@ function milesToKilometer(miles){
     return kilometer;
 }
 var marathon = milesToKilometer(26.2);
-console.log('Marathon in kilomiter: ', marathon);
+console.log('Marathon in kilometer: ', marathon);
