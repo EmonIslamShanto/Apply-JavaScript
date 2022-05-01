@@ -2,7 +2,7 @@
 
 
 
-let getData =prompt('Enter Year')
+let getData =prompt('Enter Year') // get data from user
 
 const leapYear =(year)=>{
 
