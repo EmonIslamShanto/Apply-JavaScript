@@ -51,4 +51,4 @@ var moonStatus = isMoonUp(12);
 // Could change
 let price = 27;
 // Could not change
-const = 'Naim Siddiqui';
+const prices = 'Naim Siddiqui';
